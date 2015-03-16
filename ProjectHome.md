@@ -1,0 +1,1 @@
+Aim: to develop google gadget for erro control coding
